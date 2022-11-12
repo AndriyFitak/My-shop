@@ -252,11 +252,7 @@ color: #62A5F3;
    border-right: 2px solid black;
 }
 
-.productblock{
-   display: inline-block;
-   width: 79%;
-   background-color: aquamarine;
-}
+
 
 .p-navBar{
    position: absolute;
@@ -353,3 +349,10 @@ left: 26px;
 top: 300px;
 
 }
+
+.productblock{
+   display: inline-block;
+   width: 78%;
+   
+}
+
